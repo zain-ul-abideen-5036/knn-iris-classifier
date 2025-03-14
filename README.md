@@ -30,9 +30,9 @@ This project demonstrates:
 
 ## Usage
 1. Start Jupyter Notebook:
-```
-jupyter notebook notebooks/knn_iris.ipynb
-```
+   ```
+   jupyter notebook notebooks/knn_iris.ipynb
+   ```
 2. Open ```knn_iris.ipynb```
 3. Run cells sequentially to:
    - Load and preprocess data
