@@ -19,20 +19,20 @@ This project demonstrates:
 
 ## Installation
 1. Clone repository:
-   ```bash
-   git clone https://github.com/zain-ul-abideen-5036/knn-iris-classifier.git
-   ```
+```bash
+git clone https://github.com/zain-ul-abideen-5036/knn-iris-classifier.git
+```
 2. Install requirements:
-   ```bash
-   git clone https://github.com/zain-ul-abideen-5036/knn-iris-classifier.git
-   ```
+```bash
+git clone https://github.com/zain-ul-abideen-5036/knn-iris-classifier.git
+```
 ---
 
 ## Usage
 1. Start Jupyter Notebook:
-   ```
-   jupyter notebook notebooks/knn_iris.ipynb
-   ```
+```
+jupyter notebook notebooks/knn_iris.ipynb
+```
 2. Open ```knn_iris.ipynb```
 3. Run cells sequentially to:
    - Load and preprocess data
